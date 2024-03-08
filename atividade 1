@@ -1,0 +1,18 @@
+/*void main() {
+String nome = 'Bruno';
+String serie = '3TDS';
+String escola = 'Erom Domingues';
+String jogo = 'cod';
+String plataforma = 'Celular';
+  
+print ('olá meu nome é ${nome}, sou aluno do ${serie} do colegio ${escola}, jogo ${jogo}, jogo na plaforma ${plataforma},');
+}
+*/
+
+void main() {
+  String nome = 'bruno';
+  int altura = 179;
+  int peso = 71;
+  double media = (altura + peso) / 2;
+  print('${nome} voce tem o imc de ${media}');
+}
